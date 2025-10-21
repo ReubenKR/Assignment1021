@@ -12,6 +12,6 @@ Tasks:
 7. Pair up with a classmate. Exchange your repository URLs with each other.
 8. Change your repository’s origin to point to your classmate’s repository. Make a small change and attempt to push your changes to their repository.
 9. In your repository’s README file, describe what happened when you tried to push your changes to their repository.  
-   * What message did GitHub Desktop give you?
-   * Why do you think this happened?
-   * What does this reveal about how Git handles remote permissions?
+   * What message did GitHub Desktop give you? - Do you want to fork this repository?
+   * Why do you think this happened? - Because it's Viggos file and I cant change it without permission
+   * What does this reveal about how Git handles remote permissions? - It stops people changing your files without permission
